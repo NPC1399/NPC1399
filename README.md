@@ -1,4 +1,11 @@
-### Hi there 👋
+## 😉 About Me
+- 🔭 I'm a full-time data scientist at a healthcare tech startup and a part-time machine learning engineer for the Thai LLM open-source project.
+- 🖥️ My interests in AI include computer vision, NLP, ASR, LLM, and multi-modal applications.
+- 🌱 I'm currently a beginner in quantitative finance and algorithmic trading, but I'm actively learning about them.
+
+## 🎓 Education
+- ⚡ B.Eng in Electrical Engineering, Kasetsart University (Bangkhen).
+- ⚡ M.Eng in Electrical Engineering, Chulalongkorn University.
 
 <!--
 **NPC1399/NPC1399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
