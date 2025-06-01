@@ -1,5 +1,6 @@
 ## 😉 About Me
-- 🔭 I'm a full-time data scientist at a healthcare tech startup and a part-time machine learning engineer for the Thai LLM open-source project.
+- 🔭 I'm a full-time data scientist at a healthcare tech startup and a part-time research assistance working on computer vision and multi-modal.
+- 🕙 Ex-machine learning engineer for the Thai LLM open-source project.
 - 🖥️ My interests in AI include computer vision, NLP, ASR, LLM, and multi-modal applications.
 - 🌱 I'm currently a beginner in quantitative finance and algorithmic trading, but I'm actively learning about them.
 
